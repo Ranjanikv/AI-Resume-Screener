@@ -59,12 +59,8 @@ streamlit run app.py
    * Ranks candidates from best to least match.
 
 ## Future Improvements
-
-* Resume feedback and improvement suggestions
-* Experience and education scoring
-* AI-generated candidate summaries
-* Support for more document formats
-
-## License
-
-MIT License
+- Automatic skill extraction from resumes and job descriptions without relying on a predefined skill list.
+- AI-based identification of new technologies, tools, and certifications.
+- Experience and education scoring.
+- AI-generated candidate summaries.
+- Support for additional file formats.
